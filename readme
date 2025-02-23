@@ -1,4 +1,0 @@
-uvicorn main:app --reload --port 7000
-
-
-pytest tests/
